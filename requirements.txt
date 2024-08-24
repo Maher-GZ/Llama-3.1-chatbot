@@ -1,0 +1,8 @@
+langchain 
+transformers
+torch
+sqlalchemy 
+requests 
+pillow
+faiss-cpu
+datasets
